@@ -1,2 +1,2 @@
-# fimc-vanilla-plus
+# FiMC Vanilla+
 Minecraft Fabric vanilla-friendly modpack
