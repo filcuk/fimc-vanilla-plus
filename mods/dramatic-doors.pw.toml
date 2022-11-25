@@ -1,0 +1,13 @@
+name = "Dramatic Doors"
+filename = "DramaticDoors-Fabric-1.19.2-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d257d316dcb7d50ec89142fcd2862c5ba0b65f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4048218
+project-id = 380617

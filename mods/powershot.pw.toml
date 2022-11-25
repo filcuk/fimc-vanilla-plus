@@ -1,0 +1,16 @@
+name = "Powershot"
+filename = "powershot-1.4.0-1.19-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a181fde43bc6217d80dd7da38915c3c3c33320a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820963
+project-id = 391916
+
+[option]
+optional = true

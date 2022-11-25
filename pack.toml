@@ -1,0 +1,12 @@
+name = "FiMC Vanilla+"
+version = "1.0.0-rc.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9009bd7087c67baa0eef33075ffd51cccf8f6a2c6ac296dd7faca30528bfc935"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Firework Rocket Duration"
+filename = "cr-firework-rocket-duration-fabric-1.1.1+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5115b9159b66eae1484085feaa645b4631bad48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821206
+project-id = 486697

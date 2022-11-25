@@ -1,0 +1,13 @@
+name = "Dangerous Stone Cutter [Forge/Fabric]"
+filename = "dangerousstonecutter-fabric-mc1.19-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c11c1c1308852b35024baa05daab0a6de761e204"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3935900
+project-id = 345729

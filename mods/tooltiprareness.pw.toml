@@ -1,0 +1,13 @@
+name = "TooltipRareness"
+filename = "tooltiprareness-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1c2a337cc60bb6aa2b02fe7abce94b0d48fdf85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3996350
+project-id = 472795

@@ -1,0 +1,16 @@
+name = "Inventory Tabs (updated)"
+filename = "inventorytabs-0.8.1-1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd9eb7729befed7d1576d2927602d0cf75d8f68a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3888219
+project-id = 585506
+
+[option]
+optional = true

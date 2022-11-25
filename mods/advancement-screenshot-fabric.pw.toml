@@ -1,0 +1,13 @@
+name = "Advancement Screenshot (Fabric)"
+filename = "advancementscreenshot-fabric_1.19.2-3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c98c3c7a533bcfb9377a0aab30fe84ad96751faa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4016119
+project-id = 550889

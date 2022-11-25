@@ -1,0 +1,16 @@
+#Start of Config
+#Mode = blacklist (excluding plantables)
+pickaxe:
+axe:
+shovel:
+hoe:
+global:
+place:
+plantables:
+	- minecraft:nether_wart
+	- minecraft:beetroot_seeds
+	- minecraft:wheat_seeds
+	- minecraft:carrot
+	- minecraft:potato
+	- minecraft:pumpkin_seeds
+	- minecraft:melon_seeds

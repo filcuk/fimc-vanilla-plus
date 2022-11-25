@@ -1,0 +1,13 @@
+name = "Mechanical Dispensers"
+filename = "MechanicalDispensers-4.1-1.19-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9699904ce14c4606474cacf055cb5b447a09dc14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4052446
+project-id = 517886
