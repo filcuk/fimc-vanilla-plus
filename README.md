@@ -1,6 +1,7 @@
 # FiMC Vanilla+
 [Wiki](https://github.com/filcuk/fimc-vanilla-plus/wiki) · 
 [Releases](https://github.com/filcuk/fimc-vanilla-plus/releases) · 
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/fimc-vanilla-plus)  
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/fimc-vanilla-plus) ·   
+[PackWiz](https://packwiz.infra.link/tutorials/creating/getting-started/)
 
-Minecraft Fabric vanilla-friendly modpack
+Minecraft Fabric vanilla+ modpack
