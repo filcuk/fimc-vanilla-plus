@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "bca78075ea8743ba385dc1a89991a7659503d1ec4ddfc02f6e0dc7f7b662a05f"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "4224ae269015e2db21eaa5029cce942e21c73e2beceeb1caafa482c4ab68111d"
 
@@ -716,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f31a443d67ff7dd0b1156bc578173f600564d3f0f468711464d0b46710698f5f"
+hash = "e57fa0d248a6996c2751cf2e08f85d301f00c8e359810fdb2dc5c156e9fc6f40"
 metafile = true
 
 [[files]]
@@ -911,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "3d2e70c6286b86763b53e43d2f046541aa49ddf10d7b6a60a686f6834829d6d0"
+hash = "4105ecac696ee1337fb4a7f24e8ac5e9619b0052ebd305374e51c49c20dc09ae"
 metafile = true
 
 [[files]]
@@ -921,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f35e077d67df0c947bfdb191654240d886650989b970bc4eb8249479b3a66b8d"
+hash = "34937c108a74455347f53276aedc8a670dac3c430ef23392487a75868a6e6091"
 metafile = true
 
 [[files]]
@@ -996,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs-updated.pw.toml"
-hash = "59703bc6413a8e8deb485c44a5e18b64e63554911f37dee0d90c7d5ea6c86acc"
+hash = "ff2b53f8349a2643ccbb63340aa85d51e65bf16d016d3e9aad899746d25b3d97"
 metafile = true
 
 [[files]]
@@ -1156,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/public-gui-announcement.pw.toml"
-hash = "020c4ff8c3fa00482ad49ba672a966e0766b2ecf53a36a1b8116cd807504e519"
+hash = "37c1966ce07ca0b30afe8879353658c96bb714e214f3051b836942d1e0290c67"
 metafile = true
 
 [[files]]
@@ -1246,7 +1242,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "a3b079ae071d5e1a096ac00233b0014e1283032b460387d5e92cfebaa77c6424"
+hash = "946ce029256b7b764268dce31303e76f0a41ece07f6d964fe41b3bd4e94f3e1f"
 metafile = true
 
 [[files]]
@@ -1325,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-fabric.pw.toml"
-hash = "82a29afb1e461e36718af6d5fe5b4790f4911b4d59242d6ab4cc7f3db77b7e00"
+hash = "5b9774207e41baebbe8c8f7954f157c3911a0946ac43cf26e6e1af800a6d6e79"
 metafile = true
 
 [[files]]

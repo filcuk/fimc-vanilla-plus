@@ -1,13 +1,13 @@
 name = "Villager Names (Fabric)"
-filename = "villagernames-1.19.2-4.0.9.jar"
+filename = "villagernames-1.19.2-4.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4370f54e88a65b70a02da61fa276bf3feaa6dfd4"
+hash = "46ba341a9d9dc58be30a5e07626ffdb6d0cc725b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4028134
+file-id = 4110577
 project-id = 416379

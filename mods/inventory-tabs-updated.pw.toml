@@ -1,15 +1,15 @@
 name = "Inventory Tabs (updated)"
-filename = "inventorytabs-0.8.1-1.19.x.jar"
+filename = "inventorytabs-0.9.beta-1.19.x.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dd9eb7729befed7d1576d2927602d0cf75d8f68a"
+hash = "51e57151c4440458699600e4efc7f18cc9691aad"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3888219
+file-id = 3891941
 project-id = 585506
 
 [option]

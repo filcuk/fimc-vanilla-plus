@@ -1,13 +1,13 @@
 name = "Emotecraft (Fabric)"
-filename = "emotecraft-for-MC1.19.2-2.2.5-fabric.jar"
+filename = "emotecraft-for-MC1.19.2-2.2.6-SNAPSHOT-build.44-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "81ba82e29bfa8ee1ef7bfa43d09fc859e221c0e7"
+hash = "9318e5483f1c689e92776c03912285f2e2060710"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3955897
+file-id = 4022063
 project-id = 397809
