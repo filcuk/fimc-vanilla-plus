@@ -1,4 +1,5 @@
 name = "FiMC Vanilla+"
+author = "filcuk"
 version = "1.0.0-rc.4"
 pack-format = "packwiz:1.1.0"
 
@@ -8,5 +9,5 @@ hash-format = "sha256"
 hash = "41213a2eaca1bd834a4e5d64d336b01a02f3ad778c979962b2f8e15a4229e90e"
 
 [versions]
-fabric = "0.14.10"
 minecraft = "1.19.2"
+fabric = "0.14.10"
