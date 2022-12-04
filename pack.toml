@@ -1,12 +1,12 @@
 name = "FiMC Vanilla+"
 author = "Filcuk"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ef35730941773800f03a75254317c84ed479839e27edce9c63a2498dace4deed"
+hash = "cb10d9ab21b01bb61902512432e93b64b60531d671e15cd8bbe111e5080a667a"
 
 [versions]
 fabric = "0.14.10"

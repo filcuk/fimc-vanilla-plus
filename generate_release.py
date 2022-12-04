@@ -100,7 +100,7 @@ with open('README.md', 'wt', encoding='UTF-8') as readme, open('README.md-templa
     
     # Write current version details
     readme.write('Version: ' + version + '  \n')
-    readme.write('Updates:  \n```')
+    readme.write('Mod updates:  \n```')
     readme.write(updates)
     readme.write('```')
     

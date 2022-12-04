@@ -70,7 +70,7 @@ hash = "a57529df13d61d5989ba3cadc5ad1ccfd2a553623b158fac0fbe0701b190f75a"
 
 [[files]]
 file = "config/bcc.json"
-hash = "593de7c5ea8da989de698b7d4e1f3856b1975aadc73160044fb1e62254afbaf8"
+hash = "f201f2eab22d310fb5ef7d9f2e94959a4242e269f00161dfc547b3f91ee831a0"
 
 [[files]]
 file = "config/betteradvancements.json"
@@ -686,7 +686,7 @@ hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
 
 [[files]]
 file = "generate_release.py"
-hash = "2b9bd1346527977c9134b0468de4dafc23c9c3140debf42d3cc3a3c7f2be2cec"
+hash = "4466c11fed194d739039ad3691c4411a75e0375eb3d570e5b94a1073ecc7ebf0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3801752b527db77029f9cb939711f51ae22d3867349ef79b8464171febb71fac"
+hash = "5dcdc51bdf1a3ef4d47174751bf5e720fc48cc65494922759c8c0f8bc02db953"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "191437c2a313b2933b8e1206774c7fa61397504f1babb03175eb1122a93a62cc"
+hash = "0cd75ca770602d108f9bc08489c5cc5bec040b5fcf18a8d8773e2acec71311c1"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ hash = "9def82e1d345773dbcd74593cc2f25d64fa04e60571c6254b31c6336ecf2b661"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "db6b8affea2bd00af88e12d4f7308f2546ee522a942f8d132f415e7e70b373c7"
+hash = "42b159eedc16220556fdd6220a82512e4b52e09a2e19ac2aa63f10f23e821da8"
 metafile = true
 
 [[files]]
