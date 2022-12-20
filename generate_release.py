@@ -6,55 +6,55 @@ from consolemenu import *
 from consolemenu.items import *
 from subprocess import call, check_output, CalledProcessError, STDOUT
 
-# https://stackoverflow.com/a/47144897/1657229
-def system_call(command):
-    """ 
-    params:
-        command: list of strings, ex. `["ls", "-l"]`
-    returns: output, success
-    """
-    try:
-        output = check_output(command, stderr=STDOUT).decode()
-        success = True 
-    except CalledProcessError as e:
-        output = e.output.decode()
-        success = False
-    return output, success1
+# # https://stackoverflow.com/a/47144897/1657229
+# def system_call(command):
+#     """ 
+#     params:
+#         command: list of strings, ex. `["ls", "-l"]`
+#     returns: output, success
+#     """
+#     try:
+#         output = check_output(command, stderr=STDOUT).decode()
+#         success = True 
+#     except CalledProcessError as e:
+#         output = e.output.decode()
+#         success = False
+#     return output, success1
 
-def main():
-    menu = ConsoleMenu("Title", "Subtitle")
+# def main():
+#     menu = ConsoleMenu("Title", "Subtitle")
     
-    # MenuItem is the base class for all items, it doesn't do anything when selected
-    menu_item = MenuItem("Menu Item")
+#     # MenuItem is the base class for all items, it doesn't do anything when selected
+#     menu_item = MenuItem("Menu Item")
 
-    # A FunctionItem runs a Python function when selected
-    function_item = FunctionItem("Call a Python function", input, ["Enter an input"])
+#     # A FunctionItem runs a Python function when selected
+#     function_item = FunctionItem("Call a Python function", input, ["Enter an input"])
 
-    # A CommandItem runs a console command
-    command_item = CommandItem("Run a console command",  "touch hello.txt")
+#     # A CommandItem runs a console command
+#     command_item = CommandItem("Run a console command",  "touch hello.txt")
 
-    # A SelectionMenu constructs a menu from a list of strings
-    selection_menu = SelectionMenu(["item1", "item2", "item3"])
+#     # A SelectionMenu constructs a menu from a list of strings
+#     selection_menu = SelectionMenu(["item1", "item2", "item3"])
 
-    # A SubmenuItem lets you add a menu (the selection_menu above, for example)
-    # as a submenu of another menu
-    submenu_item = SubmenuItem("Submenu item", selection_menu, menu)
+#     # A SubmenuItem lets you add a menu (the selection_menu above, for example)
+#     # as a submenu of another menu
+#     submenu_item = SubmenuItem("Submenu item", selection_menu, menu)
 
-    # Once we're done creating them, we just add the items to the menu
-    menu.append_item(menu_item)
-    menu.append_item(function_item)
-    menu.append_item(command_item)
-    menu.append_item(submenu_item)
+#     # Once we're done creating them, we just add the items to the menu
+#     menu.append_item(menu_item)
+#     menu.append_item(function_item)
+#     menu.append_item(command_item)
+#     menu.append_item(submenu_item)
 
-    # Finally, we call show to show the menu and allow the user to interact
-    menu.show()
+#     # Finally, we call show to show the menu and allow the user to interact
+#     menu.show()
     
 
-# TODO: Check for packwiz updates (currently not possible)
+# # TODO: Check for packwiz updates (currently not possible)
 
-main()
+# main()
 
-exit()
+# exit()
 
 # Get current properties from pack.toml
 with open('pack.toml', 'r') as f:
