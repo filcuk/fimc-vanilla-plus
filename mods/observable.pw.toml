@@ -1,13 +1,13 @@
 name = "Observable"
-filename = "observable-3.3.0.jar"
+filename = "observable-3.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2880000039e41b4bb515b44e3be596a41ea7049a"
+hash = "c4264c72f6381d984feb245343b5417ce48aa56b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4072688
+file-id = 4193013
 project-id = 509575

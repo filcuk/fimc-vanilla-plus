@@ -1,13 +1,13 @@
 name = "Mouse Wheelie (Fabric)"
-filename = "mousewheelie-1.10.2+mc1.19-pre1.jar"
+filename = "mousewheelie-1.10.6+mc1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2ca595c5503f7012057826a0f72a788681353763"
+hash = "73ed1274d03bfd8471f100b27b638f384ba92e1f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3887535
+file-id = 4223900
 project-id = 317514
