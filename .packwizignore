@@ -3,3 +3,5 @@
 
 # Exclude README
 /README.md
+
+/generate_release.py

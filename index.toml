@@ -70,7 +70,7 @@ hash = "a57529df13d61d5989ba3cadc5ad1ccfd2a553623b158fac0fbe0701b190f75a"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b5c305a1c54f95f8f570308e97f6be22da0079ce99e4020569beeeccbd92ea74"
+hash = "9b253c35550e3cbdc77d2a9c1a265a60cff272843c9ca84acd94e64c18c9c9c0"
 
 [[files]]
 file = "config/betteradvancements.json"
@@ -158,11 +158,15 @@ hash = "3e93640912ed3a9ddf871b45ccf373d7d8db57e50bcc2798e9b7112b2e031c67"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "45530de4413fe3120dc4f8adc54a9763fbdb00fd5dc7fea81b4a0b7b5c709491"
+hash = "d131efd75202420cd852b9d9da23abb2ec0ba5e2255906887b918945936ddb5e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "d0dc3c221a8e197cc90c3d953e2d739b9df699eeec41e319196e598b3fe866df"
+hash = "48c3bf2950578a5d85a1cbadf0fa5b3ddc712aa6b778917f79c874504dae8082"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "dfe7518fd5294d6d72182041c03d7dac9b004dde7ea0197cbb7bf689472f5b79"
 
 [[files]]
 file = "config/dusk.json"
@@ -1376,11 +1380,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "97bc17b09ff16a1a972e246214d716ded9837e032c4a9b76ae2a0235fdad8696"
+hash = "cb3885b4dcc040bc74cf9b4f74a5cd0da86bfd1344248e0f86ac439ff3171144"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r572934.zip"
 hash = "713c03913cb098b0a91459454a6a5117daec5b3213a38b936f3d30b84bab604d"
+
+[[files]]
+file = "servers.dat"
+hash = "dfe7518fd5294d6d72182041c03d7dac9b004dde7ea0197cbb7bf689472f5b79"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
