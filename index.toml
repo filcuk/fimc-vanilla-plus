@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "0688e520d390a4a7abeb4f0087f99a63cd8f378c09be047fcce679b6d2d95a91"
+hash = "6881cf871671fd2d45882719f93d8bc8bb1a2736da6aeb607c59cd8f0d28aa22"
 metafile = true
 
 [[files]]
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "4fa598a0e4428c29c635137e46df3c0cda954e517d2f850bd2e42dff888382e5"
+hash = "df887ef39e3a78cf9a23adb5667978e7bb0ae2d3f7db68b670489180a8e2bc05"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de87fd5c684c0ca615f880ffe1df3c4842b82d343b1d8479035ac228c3c6934b"
+hash = "454c2cb0c46a3332b2b6952709ba55067031a9aa7b1cff8d529f0882997faba6"
 metafile = true
 
 [[files]]
@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1384ec6332b4a2a4c71a6a49b7e5fd721dd2baa53757ddbf95be0c29811c0797"
+hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
 metafile = true
 
 [[files]]
