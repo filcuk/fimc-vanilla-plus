@@ -4,4 +4,6 @@
 # Exclude README
 /README.md
 
+/fimc-vanilla-plus.code-workspace
+/README.md-template
 /generate_release.py
