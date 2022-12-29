@@ -18,7 +18,7 @@ hash = "12d4d8fac0930348fe0f4fd90428478d601aaf3d90af5376e65fd6244d2df455"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
+hash = "cd5517ad5ee9917aca5eb02f9eb1c2f7dca487643e8dc4a6968bc94f8beb5682"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -342,7 +342,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "48ef08ab73853cb275b23d6b3938b6fec3186b8e96ffcb26abeceb0efcbde398"
+hash = "ad75f8f6c9b97ee5c7b918f1c2674d3b5000d546bd5ee6100562be0df4dd4010"
 
 [[files]]
 file = "config/publicguiannouncement.properties"
@@ -362,7 +362,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "7a9a20c5839db63d83bf3296759dc37e87b4fb282a78c982c03dafc5073da797"
+hash = "6adeca08d54e18f92732b675dd573fa32716b7178ccdea74d270388c5f8a3aa7"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -679,10 +679,6 @@ hash = "e81cd74ece1639d5d8dd2077c39f2de0a1880ce1d2aafa0fe7b51641aa40ab94"
 [[files]]
 file = "fimc-vanilla-plus.code-workspace"
 hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
-
-[[files]]
-file = "generate_release.py"
-hash = "38b2288664c29958320638a26f08faf63cda422910426a17ba66eb86da5a25dc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
