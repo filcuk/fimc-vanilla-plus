@@ -23,7 +23,7 @@ from subprocess import call, check_output, CalledProcessError, STDOUT
 
 # def main():
 #     menu = ConsoleMenu("Title", "Subtitle")
-    
+
 #     # MenuItem is the base class for all items, it doesn't do anything when selected
 #     menu_item = MenuItem("Menu Item")
 
@@ -48,7 +48,7 @@ from subprocess import call, check_output, CalledProcessError, STDOUT
 
 #     # Finally, we call show to show the menu and allow the user to interact
 #     menu.show()
-    
+
 
 # # TODO: Check for packwiz updates (currently not possible)
 
@@ -109,18 +109,25 @@ with open('pack.toml', 'w') as f:
 
 # Update mods and record for changelog
 if click.confirm('Apply mod updates? (True)', default=True):
-    updates, success = system_call(['packwiz.exe', 'update', '-a', '-y'])
+    try:
+        updates = check_output(['packwiz.exe', 'update', '-a', '-y'])
+        print(updates)
+    except CalledProcessError:
+        print('err getting updates')
 
 # Create exports
 if click.confirm('Export CurseForge pack? (True)', default=True):
     print('Generating CurseForge pack...')
     call(['packwiz.exe', 'curseforge', 'export'])
 
-if click.confirm('Export Modrinth pack? (False)', default=False):
+if click.confirm('Export Modrinth pack? (True)', default=True):
     print('Generating Modrinth pack...')
     call(['packwiz.exe', 'modrinth', 'export'])
 
 # Update README.md
+
+exit()
+
 try:
     print(updates)
 except:
@@ -136,7 +143,7 @@ with open('README.md', 'wt', encoding='UTF-8') as readme, open('README.md-templa
     # Write current version details
     readme.write('Version: ' + version + '  \n')
     readme.write('Mod updates:  \n```')
-    readme.write(updates)
+    readme.write(updates)   # TODO: err, updates is not a string
     readme.write('```')
     
     readme.close
