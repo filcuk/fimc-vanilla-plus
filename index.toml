@@ -325,10 +325,6 @@ file = "config/notenoughanimations.json"
 hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
 
 [[files]]
-file = "config/notenoughcrashes.json"
-hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
-
-[[files]]
 file = "config/observable.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
