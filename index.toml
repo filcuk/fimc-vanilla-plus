@@ -715,11 +715,6 @@ hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
-file = "mods/antixray.pw.toml"
-hash = "c7bd6921a1814e6df15769c905660c3fe73129ea8da962abf11cae381d588afe"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
 metafile = true
@@ -832,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "0788980ab42ed19eec264237973ec4b949fccd23dc2af601a03afea9c0378fc1"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
 metafile = true
 
 [[files]]
